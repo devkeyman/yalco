@@ -1,0 +1,11 @@
+.button {
+  background-color: skyblue;
+  padding: 10px;
+  font-size: 16px;
+}
+.slider {
+  padding: 0;
+}
+#topmenu {
+  margin: 0;
+}
